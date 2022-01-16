@@ -8,4 +8,4 @@
 - ⚙️ I use daily: `.php`, `.dart`, `.html`, `.css`, `.scss`, `.js`
 - 🌱 Learning all about Flutter and Laravel
 - ⚡ Fun fact: I have a mood booster doll called "baobao"
-- 📫 Reach me: <a href="https://ihsanfrr.github.io">My Website</a>
+- 📫 Reach me: <a href="https://ihsanfrr.github.io" target="_blank">My Website</a>
