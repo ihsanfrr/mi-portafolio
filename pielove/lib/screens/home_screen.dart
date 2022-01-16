@@ -78,6 +78,10 @@ class HomeScreen extends StatelessWidget {
                     style: const TextStyle(color: white),
                     cursorColor: const Color(0xFF9B8FFF),
                     decoration: InputDecoration(
+                      suffixIcon: const Icon(
+                        Icons.search,
+                        color: Color(0xFF9B8FFF),
+                      ),
                       contentPadding: EdgeInsets.only(
                         left: 12,
                         bottom: paddingBotInputNum(
